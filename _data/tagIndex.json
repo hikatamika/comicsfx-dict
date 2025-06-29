@@ -1,0 +1,224 @@
+[
+  {
+    "sfxTagType": "Category",
+    "sfxTagTypePlural": "Categories",
+    "sfxTagTypeDesc": "The emotional tones, narrative circumstances, or linguistic categories that words can belong to.",
+    "sfxTagTypeChildren": [
+      {
+        "sfxTag": "Action",
+        "sfxTagParent": "Category",
+        "sfxTagDesc": "Words related to action or combat."
+      },
+      {
+        "sfxTag": "Comedic",
+        "sfxTagParent": "Category",
+        "sfxTagDesc": "Words that are comedic in nature."
+      },
+      {
+        "sfxTag": "Imitative",
+        "sfxTagParent": "Category",
+        "sfxTagDesc": "Words commonly used in conversation that are imitative or onomatopoeic of how they sound."
+      },
+      {
+        "sfxTag": "Neutral",
+        "sfxTagParent": "Category",
+        "sfxTagDesc": "Words that can have neutral tone or usage."
+      },
+      {
+        "sfxTag": "Non-Diegetic",
+        "sfxTagParent": "Category",
+        "sfxTagDesc": "Words representing sounds that are not physically present in the scene."
+      }
+    ]
+  },
+  {
+    "sfxTagType": "Source",
+    "sfxTagTypePlural": "Sources",
+    "sfxTagTypeDesc": "The sources that sounds can originate from.",
+    "sfxTagTypeChildren": [
+      {
+        "sfxTag": "Animal",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from animal sounds and cries."
+      },
+      {
+        "sfxTag": "Character",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from the sounds of (often human/anthropomorphic) character actions."
+      },
+      {
+        "sfxTag": "Cloth",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from sounds emitted by cloth, or interactions with cloth."
+      },
+      {
+        "sfxTag": "Constructs",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from structural things built by people, like buildings or furniture."
+      },
+      {
+        "sfxTag": "Electronics",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced the sounds electronics make."
+      },
+      {
+        "sfxTag": "Elements",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from the sounds of elements. Such as: water, earth, fire, or air; but also fictional elements like magic, light, and darkness. These sounds can be diegetic, or non-diegetic."
+      },
+      {
+        "sfxTag": "Impact",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from the sounds caused by a character or object being hit."
+      },
+      {
+        "sfxTag": "Machinery",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from the sounds of machinery."
+      },
+      {
+        "sfxTag": "Motion",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words representing sounds emitted as a result of motion."
+      },
+      {
+        "sfxTag": "Nature",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from the sounds of nature."
+      },
+      {
+        "sfxTag": "Organic",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from organic/biological sounds."
+      },
+      {
+        "sfxTag": "Props",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from the sounds props emit."
+      },
+      {
+        "sfxTag": "Supernatural",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced sounds from supernatural sources."
+      },
+      {
+        "sfxTag": "Weapons",
+        "sfxTagParent": "Source",
+        "sfxTagDesc": "Words sourced from sounds emitted by weapons."
+      }
+    ]
+  },
+  {
+    "sfxTagType": "Weight",
+    "sfxTagTypePlural": "Weights",
+    "sfxTagTypeDesc": "The physical weights that words seek to imitate/represent by how they sound.",
+    "sfxTagTypeChildren": [
+      {
+        "sfxTag": "Weightless",
+        "sfxTagParent": "Weight",
+        "sfxTagDesc": "Words representing/imitating weightless, or near-weightless impacts, energies, or non-diegetic sounds."
+      },
+      {
+        "sfxTag": "Light",
+        "sfxTagParent": "Weight",
+        "sfxTagDesc": "Words representing/imitating lightweight impacts, sounds, or actions."
+      },
+      {
+        "sfxTag": "Soft",
+        "sfxTagParent": "Weight",
+        "sfxTagDesc": "Words representing impacts or sounds from soft or squishy objects."
+      },
+      {
+        "sfxTag": "Hollow",
+        "sfxTagParent": "Weight",
+        "sfxTagDesc": "Words representing impacts or sounds from hollow objects."
+      },
+      {
+        "sfxTag": "Mid",
+        "sfxTagParent": "Weight",
+        "sfxTagDesc": "Words representing/imitating impacts, sounds, or actions from sources of intermediate weight."
+      },
+      {
+        "sfxTag": "Solid",
+        "sfxTagParent": "Weight",
+        "sfxTagDesc": "Words representing impacts or sounds from solid objects."
+      },
+      {
+        "sfxTag": "Heavy",
+        "sfxTagParent": "Weight",
+        "sfxTagDesc": "Words representing/imitating lightweight impacts, sounds, or actions."
+      }
+    ]
+  },
+  {
+    "sfxTagType": "Volume",
+    "sfxTagTypePlural": "Volumes",
+    "sfxTagTypeDesc": "Volumes considered to be inherent to certain sounds.",
+    "sfxTagTypeChildren": [
+      {
+        "sfxTag": "Quiet",
+        "sfxTagParent": "Volume",
+        "sfxTagDesc": "Words representing quiet sounds."
+      },
+      {
+        "sfxTag": "Loud",
+        "sfxTagParent": "Volume",
+        "sfxTagDesc": "Words representing loud sounds."
+      }
+    ]
+  },
+  {
+    "sfxTagType": "Pitch",
+    "sfxTagTypePlural": "Pitches",
+    "sfxTagTypeDesc": "The auditory pitches that words seek to imitate by how they sound.",
+    "sfxTagTypeChildren": [
+      {
+        "sfxTag": "Low",
+        "sfxTagParent": "Pitch",
+        "sfxTagDesc": "Words representing sounds that are low in pitch."
+      },
+      {
+        "sfxTag": "Mid",
+        "sfxTagParent": "Pitch",
+        "sfxTagDesc": "Words representing sounds that are medium in pitch."
+      },
+      {
+        "sfxTag": "High",
+        "sfxTagParent": "Pitch",
+        "sfxTagDesc": "Words representing sounds that are high in pitch."
+      }
+    ]
+  },
+  {
+    "sfxTagType": "Rhythm",
+    "sfxTagTypePlural": "Rhythms",
+    "sfxTagTypeDesc": "The rhythms of words; often informed by their length, repetition, or ability to be stretched.",
+    "sfxTagTypeChildren": [
+      {
+        "sfxTag": "Beat",
+        "sfxTagParent": "Rhythm",
+        "sfxTagDesc": "Words with a single, instantaneous, rhythm."
+      },
+      {
+        "sfxTag": "Multi-Beat",
+        "sfxTagParent": "Rhythm",
+        "sfxTagDesc": "Words comprised of multiple, different beats."
+      },
+      {
+        "sfxTag": "Repetitious",
+        "sfxTagParent": "Rhythm",
+        "sfxTagDesc": "Words often found in repeated sequence."
+      },
+      {
+        "sfxTag": "Long",
+        "sfxTagParent": "Rhythm",
+        "sfxTagDesc": "Words with inherent length in sound."
+      },
+      {
+        "sfxTag": "Extendable",
+        "sfxTagParent": "Rhythm",
+        "sfxTagDesc": "Words with phonemes that can be extended to represent/emphasize the duration of the sound."
+      }
+    ]
+  }
+]

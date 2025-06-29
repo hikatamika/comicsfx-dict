@@ -1,0 +1,9 @@
+{
+  "layout": "/layouts/sfx.njk",
+  "tags": "sfx",
+  "date": "git Last Modified",
+  "eleventyComputed": {
+    "title": "{{sfxName}}",
+    "sfxIndexLetter": "{{sfxName | getIndexLetter}}"
+  }
+}
