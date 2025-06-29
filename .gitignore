@@ -1,0 +1,14 @@
+/_data/abcIndex.json
+/_data/dictLegend.json
+/_data/namestrings.json
+/_data/navTree.json
+/_data/tagIndexChildren.js
+
+/_includes
+/abcIndex/blocks
+/pages
+/ssrc
+/tag
+
+/*.html
+/index.njk
