@@ -28,6 +28,11 @@
         "sfxTag": "Non-Diegetic",
         "sfxTagParent": "Category",
         "sfxTagDesc": "Words representing sounds that are not physically present in the scene."
+      },
+      {
+        "sfxTag": "Utterances",
+        "sfxTagParent": "Category",
+        "sfxTagDesc": "Non-english sounds uttered by characters; like \"oof\" or \"ugh\"."
       }
     ]
   },
