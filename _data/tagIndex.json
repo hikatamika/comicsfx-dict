@@ -166,6 +166,11 @@
         "sfxTagDesc": "Words representing quiet sounds."
       },
       {
+        "sfxTag": "Variable",
+        "sfxTagParent": "Volume",
+        "sfxTagDesc": "Words representing sounds of variable volume."
+      },
+      {
         "sfxTag": "Loud",
         "sfxTagParent": "Volume",
         "sfxTagDesc": "Words representing loud sounds."
