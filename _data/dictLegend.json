@@ -1,0 +1,380 @@
+{
+    "Test": {
+        "ipa": "",
+        "asInPre": "",
+        "asIn": "",
+        "asInSuff": ""
+    },
+    "A": {
+        "ipa": "ɑ",
+        "asInPre": "f",
+        "asIn": "a",
+        "asInSuff": "ther"
+    },
+    "A:": {
+        "ipa": "ɑː",
+        "asInPre": "f",
+        "asIn": "a",
+        "asInSuff": "ther (UK)"
+    },
+    "Ar\\": {
+        "ipa": "ɑɹ",
+        "asInPre": "b",
+        "asIn": "ar",
+        "asInSuff": "d"
+    },
+    "{": {
+        "ipa": "æ",
+        "asInPre": "tr",
+        "asIn": "a",
+        "asInSuff": "p"
+    },
+    "{r\\": {
+        "ipa": "æɹ",
+        "asInPre": "c",
+        "asIn": "arr",
+        "asInSuff": "y"
+    },
+    "eI": {
+        "ipa": "eɪ",
+        "asInPre": "f",
+        "asIn": "a",
+        "asInSuff": "ce"
+    },
+    "er\\": {
+        "ipa": "eɹ",
+        "asInPre": "h",
+        "asIn": "air",
+        "asInSuff": ""
+    },
+    "E@": {
+        "ipa": "ɛə",
+        "asInPre": "h",
+        "asIn": "air",
+        "asInSuff": "&nbsp(UK)"
+    },
+    "E": {
+        "ipa": "ɛ",
+        "asInPre": "b",
+        "asIn": "e",
+        "asInSuff": "d"
+    },
+    "Er\\": {
+        "ipa": "ɛɹ",
+        "asInPre": "v",
+        "asIn": "er",
+        "asInSuff": "y"
+    },
+    "i": {
+        "ipa": "i",
+        "asInPre": "s",
+        "asIn": "ee",
+        "asInSuff": ""
+    },
+    "i:": {
+        "ipa": "i",
+        "asInPre": "s",
+        "asIn": "ee",
+        "asInSuff": "&nbsp(UK)"
+    },
+    "Ir\\": {
+        "ipa": "ɪɹ",
+        "asInPre": "n",
+        "asIn": "ear",
+        "asInSuff": ""
+    },
+    "I@": {
+        "ipa": "ɪə",
+        "asInPre": "n",
+        "asIn": "ear",
+        "asInSuff": "&nbsp(UK)"
+    },
+    "I": {
+        "ipa": "ɪ",
+        "asInPre": "s",
+        "asIn": "i",
+        "asInSuff": "t"
+    },
+    "aI": {
+        "ipa": "aɪ",
+        "asInPre": "r",
+        "asIn": "i",
+        "asInSuff": "ce"
+    },
+    "Qr\\": {
+        "ipa": "ɒɹ",
+        "asInPre": "h",
+        "asIn": "orr",
+        "asInSuff": "or (UK)"
+    },
+    "or\\": {
+        "ipa": "oɹ",
+        "asInPre": "gl",
+        "asIn": "or",
+        "asInSuff": "y"
+    },
+    "O:": {
+        "ipa": "ɔː",
+        "asInPre": "th",
+        "asIn": "ou",
+        "asInSuff": "ght"
+    },
+    "oU": {
+        "ipa": "oʊ",
+        "asInPre": "g",
+        "asIn": "o",
+        "asInSuff": ""
+    },
+    "@U": {
+        "ipa": "əʊ",
+        "asInPre": "g",
+        "asIn": "o",
+        "asInSuff": "&nbsp(UK)"
+    },
+    "OI": {
+        "ipa": "ɔɪ",
+        "asInPre": "b",
+        "asIn": "oy",
+        "asInSuff": ""
+    },
+    "U": {
+        "ipa": "ʊ",
+        "asInPre": "f",
+        "asIn": "oo",
+        "asInSuff": "t"
+    },
+    "Ur\\": {
+        "ipa": "ʊɹ",
+        "asInPre": "c",
+        "asIn": "ure",
+        "asInSuff": ""
+    },
+    "U@": {
+        "ipa": "ʊə",
+        "asInPre": "c",
+        "asIn": "ure",
+        "asInSuff": "&nbsp(UK)"
+    },
+    "u": {
+        "ipa": "u",
+        "asInPre": "s",
+        "asIn": "oo",
+        "asInSuff": "n"
+    },
+    "u:": {
+        "ipa": "uː",
+        "asInPre": "s",
+        "asIn": "oo",
+        "asInSuff": "n (UK)"
+    },
+    "aU": {
+        "ipa": "aʊ",
+        "asInPre": "h",
+        "asIn": "ou",
+        "asInSuff": "se"
+    },
+    "V": {
+        "ipa": "ʌ",
+        "asInPre": "r",
+        "asIn": "u",
+        "asInSuff": "n"
+    },
+    "3r\\": {
+        "ipa": "ɜɹ",
+        "asInPre": "f",
+        "asIn": "er",
+        "asInSuff": "n"
+    },
+    "3:": {
+        "ipa": "ɜː",
+        "asInPre": "f",
+        "asIn": "er",
+        "asInSuff": "n (UK)"
+    },
+    "@": {
+        "ipa": "ə",
+        "asInPre": "",
+        "asIn": "a",
+        "asInSuff": "bout"
+    },
+    "@r\\": {
+        "ipa": "əɹ",
+        "asInPre": "winn",
+        "asIn": "er",
+        "asInSuff": ""
+    },
+    "b": {
+        "ipa": "b",
+        "asInPre": "",
+        "asIn": "b",
+        "asInSuff": "ut"
+    },
+    "tS": {
+        "ipa": "tʃ",
+        "asInPre": "",
+        "asIn": "ch",
+        "asInSuff": "at"
+    },
+    "d": {
+        "ipa": "d",
+        "asInPre": "",
+        "asIn": "d",
+        "asInSuff": "ot"
+    },
+    "f": {
+        "ipa": "f",
+        "asInPre": "",
+        "asIn": "f",
+        "asInSuff": "an"
+    },
+    "g": {
+        "ipa": "ɡ",
+        "asInPre": "",
+        "asIn": "g",
+        "asInSuff": "et"
+    },
+    "h": {
+        "ipa": "h",
+        "asInPre": "",
+        "asIn": "h",
+        "asInSuff": "am"
+    },
+    "W": {
+        "ipa": "ʍ",
+        "asInPre": "",
+        "asIn": "wh",
+        "asInSuff": "en"
+    },
+    "dZ": {
+        "ipa": "d͡ʒ",
+        "asInPre": "",
+        "asIn": "j",
+        "asInSuff": "oy"
+    },
+    "k": {
+        "ipa": "k",
+        "asInPre": "",
+        "asIn": "c",
+        "asInSuff": "at"
+    },
+    "x": {
+        "ipa": "x",
+        "asInPre": "lo",
+        "asIn": "ch",
+        "asInSuff": "&nbsp(Scot-Eng)"
+    },
+    "l": {
+        "ipa": "l",
+        "asInPre": "",
+        "asIn": "l",
+        "asInSuff": "eft"
+    },
+    "@l": {
+        "ipa": "əl",
+        "asInPre": "litt",
+        "asIn": "le",
+        "asInSuff": ""
+    },
+    "m": {
+        "ipa": "m",
+        "asInPre": "",
+        "asIn": "m",
+        "asInSuff": "an"
+    },
+    "@m": {
+        "ipa": "əm",
+        "asInPre": "spas",
+        "asIn": "m",
+        "asInSuff": ""
+    },
+    "n": {
+        "ipa": "n",
+        "asInPre": "",
+        "asIn": "n",
+        "asInSuff": "ote"
+    },
+    "@n": {
+        "ipa": "əɹ",
+        "asInPre": "",
+        "asIn": "hidd",
+        "asInSuff": "en"
+    },
+    "N": {
+        "ipa": "ŋ",
+        "asInPre": "si",
+        "asIn": "ng",
+        "asInSuff": "er"
+    },
+    "p": {
+        "ipa": "p",
+        "asInPre": "",
+        "asIn": "p",
+        "asInSuff": "en"
+    },
+    "r\\": {
+        "ipa": "ɹ",
+        "asInPre": "",
+        "asIn": "r",
+        "asInSuff": "un"
+    },
+    "s": {
+        "ipa": "s",
+        "asInPre": "",
+        "asIn": "s",
+        "asInSuff": "et"
+    },
+    "S": {
+        "ipa": "ʃ",
+        "asInPre": "a",
+        "asIn": "sh",
+        "asInSuff": ""
+    },
+    "t": {
+        "ipa": "t",
+        "asInPre": "",
+        "asIn": "t",
+        "asInSuff": "on"
+    },
+    "T": {
+        "ipa": "əɹ",
+        "asInPre": "",
+        "asIn": "th",
+        "asInSuff": "in"
+    },
+    "D": {
+        "ipa": "ð",
+        "asInPre": "",
+        "asIn": "th",
+        "asInSuff": "is"
+    },
+    "v": {
+        "ipa": "v",
+        "asInPre": "",
+        "asIn": "v",
+        "asInSuff": "oice"
+    },
+    "w": {
+        "ipa": "w",
+        "asInPre": "",
+        "asIn": "w",
+        "asInSuff": "et"
+    },
+    "j": {
+        "ipa": "j",
+        "asInPre": "",
+        "asIn": "y",
+        "asInSuff": "es"
+    },
+    "z": {
+        "ipa": "z",
+        "asInPre": "",
+        "asIn": "z",
+        "asInSuff": "oo"
+    },
+    "Z": {
+        "ipa": "ʒ",
+        "asInPre": "vi",
+        "asIn": "s",
+        "asInSuff": "ion"
+    }
+}
